@@ -20,7 +20,8 @@ Product.belongsToMany(Tag, {
   through: {
     model: ProductTag,
     unique: false
-  }
+  },
+  as: 'tag_of_this_product'
 });
 
 // Tags belongToMany Products (through ProductTag)
