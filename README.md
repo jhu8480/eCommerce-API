@@ -17,3 +17,5 @@ Run 'npm run seed'
 Email: jhu8480@gmail.com
 
 ## Link to walkthrough video
+
+https://drive.google.com/file/d/1gW3HrjsROlFXaRi3FZaW6t9AMy7arL2X/view
